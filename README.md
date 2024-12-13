@@ -5,8 +5,8 @@ This is an implementation of 3 Machine Learning models (Logistic Regression, Gra
 Dataset from: https://archive.ics.uci.edu/dataset/350/default+of+credit+card+clients
 
 Teammates: 
-Sive Lowell
-Esther Park
-Avalyn Mullikin
-Mahibah Saleh
+Sive Lowell,
+Esther Park,
+Avalyn Mullikin,
+Mahibah Saleh,
 Mahathi Siripurapu
